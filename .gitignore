@@ -1,0 +1,9 @@
+.local/
+.screenshots/
+*.user
+*.nupkg
+bin/
+obj/
+logs/
+**/Output/*.log
+**/Output/*.tmp

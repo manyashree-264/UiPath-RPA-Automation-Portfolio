@@ -1,0 +1,2 @@
+TargetUrl=https://example.com
+ExtractionHint=Extract the page heading and introductory paragraph from the public Example Domain page.

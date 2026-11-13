@@ -1,0 +1,4 @@
+InvoiceNumber,CustomerName,Course,Amount,DueDate
+INV-1001,Ananya Rao,UiPath Fundamentals,12500,2026-12-15
+INV-1002,Vikram Singh,Excel Automation,9800,2026-12-20
+INV-1003,Sana Ali,RPA Essentials,11200,2026-12-25
